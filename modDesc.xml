@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="92">
+	<author>Achimobil</author>
+	<version>1.0.0.0</version>
+	<title>
+		<de>Mehr Missionen</de>
+		<en>More Missions</en>
+	</title>
+	<description>
+		<de><![CDATA[Einfach nur mehr Missionen.
+		
+Mit diesem Skriptmod kann man unendlich viele Missionen annehmen.
+
+Aber vorsicht, die Anzeige der Missionen wird damit immer länger und es wird nicht mehr alle angezeigt.
+
+Upload auf anderen Seiten außer dem ModHub ist verboten und somit illegal, Verlinkung nur mit Original-Downloadlink. KEIN Ersatzlink!
+Das Verändern oder erneutes hochladen, ob ganz oder in Teilen, ist nicht gestattet!
+
+Fehler und Anregungen gerne auf <a href="https://github.com/Achimobil/FS25_MoreMissions">GitHub</a>.
+]]></de>
+		<en><![CDATA[Simply more missions.
+
+With this script mod you can accept an infinite number of missions.
+
+But be careful, the display of the missions will get longer and longer and not all of them will be displayed.
+
+Uploading to sites other than ModHub is prohibited and therefore illegal, linking only with original download link. NO substitute link!
+Modifying and re-uploading in whole or in part is not allowed!
+
+Bugs and suggestions welcome on <a href="https://github.com/Achimobil/FS25_MoreMissions">GitHub</a>.
+]]></en>
+	</description>
+	
+	<iconFilename>icon_MoreMissions.dds</iconFilename>
+	
+	<multiplayer supported="true"/>
+	
+	<extraSourceFiles>
+		<sourceFile filename="moreMissions.lua"/>
+	</extraSourceFiles>
+</modDesc>
