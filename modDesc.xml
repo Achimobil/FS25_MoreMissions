@@ -5,6 +5,7 @@
 	<title>
 		<de>Mehr Missionen</de>
 		<en>More Missions</en>
+		<tr>Daha Fazla Görev</tr>
 	</title>
 	<description>
 		<de><![CDATA[Einfach nur mehr Missionen.
@@ -29,6 +30,17 @@ Modifying and re-uploading in whole or in part is not allowed!
 
 Bugs and suggestions welcome on <a href="https://github.com/Achimobil/FS25_MoreMissions">GitHub</a>.
 ]]></en>
+		<tr><![CDATA[Basitçe daha fazla görev.
+
+Bu script mod ile sonsuz sayıda görev kabul edebilirsiniz.
+
+Ancak dikkatli olun, görevlerin görüntülenmesi gittikçe uzayacak ve hepsi görüntülenmeyecektir.
+
+ModHub dışındaki sitelere yükleme yapmak yasaktır ve bu nedenle yasa dışıdır, yalnızca orijinal indirme bağlantısıyla site bağlantısı verilir. Alternatif bağlantı YOK!
+Tamamen veya kısmen değiştirmeye ve yeniden yüklemeye izin verilmez!
+
+<a href="https://github.com/Achimobil/FS25_MoreMissions">GitHub'da</a> hatalar ve öneriler memnuniyetle kabul edilir.
+]]></tr>
 	</description>
 	
 	<iconFilename>icon_MoreMissions.dds</iconFilename>
