@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="92">
 	<author>Achimobil</author>
-	<version>1.0.0.0</version>
+	<version>0.1.0.0</version>
 	<title>
 		<de>Mehr Missionen</de>
 		<en>More Missions</en>
+		<tr>Daha Fazla Görev</tr>
 	</title>
 	<description>
 		<de><![CDATA[Einfach nur mehr Missionen.
