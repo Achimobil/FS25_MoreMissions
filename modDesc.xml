@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="92">
+<modDesc descVersion="93">
 	<author>Achimobil</author>
-	<version>0.1.0.0</version>
+	<version>0.1.0.1</version>
 	<title>
 		<de>Mehr Missionen</de>
 		<en>More Missions</en>
@@ -9,7 +9,7 @@
 	</title>
 	<description>
 		<de><![CDATA[Einfach nur mehr Missionen.
-		
+
 Mit diesem Skriptmod kann man unendlich viele Missionen annehmen.
 
 Aber vorsicht, die Anzeige der Missionen wird damit immer länger und es wird nicht mehr alle angezeigt.
