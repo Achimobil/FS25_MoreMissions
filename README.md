@@ -1,7 +1,7 @@
 # FS25_MoreMissions
 
 # ModHub
-comming soon
+https://www.farming-simulator.com/mod.php?mod_id=304054&title=fs2025
 
 
 # General
