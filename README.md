@@ -3,6 +3,10 @@
 # ModHub
 https://www.farming-simulator.com/mod.php?mod_id=304054&title=fs2025
 
+# Build my Mods self
+Deutsche Anleitung: https://youtu.be/qG8wNBkjB3w
+
+Englisch manual: https://youtu.be/xCjQLPn0u1A
 
 # General
 ## DE
